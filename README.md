@@ -1,3 +1,3 @@
 # GitJenkins1
 For jenkins git learning
-first check on 10june20
+second check on 10june20
